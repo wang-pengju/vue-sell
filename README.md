@@ -17,6 +17,15 @@
 - [x] 优惠活动页面
 - [x] 商品详情页面
 
+##预览    
+
+<a href="https://wang-pengju.github.io/vue-sell/dist/#/goods">在线预览地址</a>
+
+### 移动端演示
+扫二维码在手机查看效果   
+
+<img src="https://github.com/wang-pengju/vue-sell/blob/master/screenshots/1491717460.png" width="25%">
+
 ## 构建
 
 vue脚手架构建工具vue-cli,使用webpack来集成各种开发便捷工具,比如：
